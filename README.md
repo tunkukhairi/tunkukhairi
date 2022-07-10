@@ -1,4 +1,4 @@
 - 👋 Hi, My name is Tunku Khairi bin Tunku Hanizd. I am a 23-years old Malaysian
 - 👀 I’m interested in data science
-- 🌱 I’m currently graduated from bachelor's degrre in Computer Science (Information System) programme at UNIMAS learning advanced mathematics for machine learning
+- 🌱 I’m currently graduated from bachelor's degrre in Computer Science (Information System) programme at UNIMAS
 - 💞️ I’m also currently looking for a job after graduating (as of now)
