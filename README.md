@@ -1,4 +1,5 @@
-- 👋 Hi, My name is Tunku Khairi bin Tunku Hanizd. I am a 23-years old Malaysian
-- 👀 I’m interested in data science
-- 🌱 I’m currently graduated from bachelor's degrre in Computer Science (Information System) programme at UNIMAS
-- 💞️ I’m also currently looking for a job after graduating (as of now)
+- 👋 Hi, My name is Tunku Khairi bin Tunku Hanizd. I am a 24-years old Malaysian
+- 👀 I’m currently a junior Cloud Support Engineer
+- 🌱 Welcome to my Github! This will be my place to dump all my personal projects and learning curves
+- 💞️ If you saw this, drop me a hi and let me know what you think of my Repos :)
+- tunkukhairi@gmail.com
